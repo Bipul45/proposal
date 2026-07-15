@@ -75,7 +75,7 @@ document.body.innerHTML=`
 <h1 style="color:#ff4f92;font-size:45px;">🥹❤️</h1>
 
 <h2 style="margin:20px 0;color:#ff4f92;">
-Thank You ❤️
+Thank You ❤️ and love uhh so much
 </h2>
 
 <p style="font-size:22px;">
