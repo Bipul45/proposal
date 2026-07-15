@@ -99,6 +99,10 @@ button{
     background:white;
     color:#ff4f92;
     border:2px solid #ff4f92;
+
+    position:reltive:
+    transition:all .25s ease:
+    z-index:999
 }
 
 #noBtn:hover{
